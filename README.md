@@ -1,2 +1,2 @@
-# manu
+# manu.git.io
 My new website 
